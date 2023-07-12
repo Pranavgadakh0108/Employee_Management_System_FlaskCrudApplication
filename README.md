@@ -7,3 +7,10 @@
 
 
 =>> The system uses Flask to handle HTTP requests and to interact with a database that stores employee data.
+
+
+=>> Languages : Python, HTML, CSS, JavaScript
+
+=>> Frameworks: Flask 
+
+=>> Databases : MySQL
